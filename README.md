@@ -65,7 +65,7 @@ All predictors were standardized using **training-set mean and SD**.
 - Selected the k with the **lowest RMSE**
 
 **Visualization:**  
-![K Selection Plot](figures/02_k_selection.png)
+[View K Selection Plot](figures/02_k_selection.png)
 
 ---
 
@@ -78,7 +78,7 @@ Evaluation metrics:
 - **R²**
 
 **Performance plot:**  
-![Actual vs Predicted](figures/03_actual_vs_predicted.png)
+[Actual vs Predicted](figures/03_actual_vs_predicted.png)
 
 ---
 
@@ -90,7 +90,7 @@ A PCA-based 2D plot shows:
 - all others in grey  
 
 **Visualization:**  
-![KNN Visualisation](figures/04_knn_visualisation.png)
+[KNN Visualisation](figures/04_knn_visualisation.png)
 
 ---
 
