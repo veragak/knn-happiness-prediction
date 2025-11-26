@@ -1,9 +1,7 @@
 
 #load libraries
 library(tidyverse)
-#install.packages("fastDummies")
 library(fastDummies)
-#install.packages("FNN")
 library(FNN)
 library(ggplot2)
 library(knitr)
