@@ -63,6 +63,7 @@ Visualization: `figures/02_k_selection.png`
 [View K Selection Plot](figures/02_k_selection.png)
 
 
+
 ### **5. Final Model**
 Using the optimal **k**, predictions were generated for the test set.
 
@@ -73,6 +74,8 @@ Evaluation metrics included:
 
 Visualization: `figures/03_actual_vs_predicted.png`
 
+[View Actual vs Predicted Plot](figures/03_actual_vs_predicted.png)
+
 
 
 ### **6. KNN Visualization (Neighbors Plot)**
@@ -81,6 +84,9 @@ A PCA-based 2D plot shows:
 - their *k* nearest neighbors (red dots)
 
 Visualization: `figures/04_knn_visualisation.png`
+
+[View KNN Visualisation](figures/04_knn_visualisation.png)
+
 
 ---
 
