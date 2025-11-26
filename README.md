@@ -60,6 +60,9 @@ The value of **k** with the lowest RMSE is selected.
 
 Visualization: `figures/02_k_selection.png`
 
+[View K Selection Plot](figures/02_k_selection.png)
+
+
 ### **5. Final Model**
 Using the optimal **k**, predictions were generated for the test set.
 
@@ -69,6 +72,8 @@ Evaluation metrics included:
 - **R²**
 
 Visualization: `figures/03_actual_vs_predicted.png`
+
+
 
 ### **6. KNN Visualization (Neighbors Plot)**
 A PCA-based 2D plot shows:
